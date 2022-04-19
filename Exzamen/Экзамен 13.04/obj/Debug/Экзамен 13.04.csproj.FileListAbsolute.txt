@@ -1,0 +1,13 @@
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\bin\Debug\Экзамен 13.04.exe.config
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\bin\Debug\Экзамен 13.04.exe
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\bin\Debug\Экзамен 13.04.pdb
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен 13.04.csproj.AssemblyReference.cache
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен_13._04.Form1.resources
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен_13._04.Properties.Resources.resources
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен_13._04.Заказы.resources
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен 13.04.csproj.GenerateResource.cache
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен 13.04.csproj.CoreCompileInputs.cache
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен 13.04.exe
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен 13.04.pdb
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен_13._04.Создание_заявок.resources
+C:\Users\3-5_3\source\repos\Экзамен 13.04\Экзамен 13.04\obj\Debug\Экзамен_13._04.Клиенты.resources
